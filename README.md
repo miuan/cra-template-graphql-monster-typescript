@@ -8,11 +8,11 @@ To use this template, add `--template graphql-monster-typescript` when creating 
 For example:
 
 ```sh
-npx create-react-app my-app --template gql-monster-typescript
+npx create-react-app my-app --template graphql-monster-typescript
 
 # or
 
-yarn create react-app my-app --template gql-monster-typescript
+yarn create react-app my-app --template graphql-monster-typescript
 ```
 
 

@@ -1,6 +1,6 @@
 {
   "name": "cra-template-graphql-monster-typescript",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "homepage": "https://graphql.monster",
   "keywords": [
     "react",
@@ -53,6 +53,7 @@
     "typescript": "~4.1.5"
   },
   "scripts": {
+    "prepublish": "npx rimraf .git",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
