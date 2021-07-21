@@ -24,11 +24,11 @@ function Home() {
           <span>, </span>
           <a
             className="App-link"
-            href="https://graphql.monster/documentation/optain-token"
+            href="https://graphql.monster/documentation/obtain-token"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Optain Token
+            Obtain Token
           </a>
           <span>, </span>
           <a
