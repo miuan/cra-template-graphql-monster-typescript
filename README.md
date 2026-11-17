@@ -1,9 +1,19 @@
 # GraphQL Monster CRA Template Typescript
 
+> **Deprecated:** This Create React App template is deprecated. For new projects, use [CRUD Monster React](https://github.com/crud-monster/react).
+>
+> Clone the replacement project with:
+>
+> ```sh
+> git clone git@github.com:crud-monster/react.git
+> ```
+
 The official [GraphQL Monster](https://www.graphql.monster) Typescript template for [Create React App](https://github.com/facebook/create-react-app). With Apollo GraphQL and user management (Login/Register/Reset Password,...)
 
-## usage
-To use this template, add `--template graphql-monster-typescript` when creating a new app. 
+## Legacy usage
+The instructions below are retained for existing users of the deprecated CRA template. For new projects, use [CRUD Monster React](https://github.com/crud-monster/react).
+
+To use this legacy template, add `--template graphql-monster-typescript` when creating a new app.
 
 For example:
 
